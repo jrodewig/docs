@@ -1,0 +1,12 @@
+// Include this file in your docs:
+// include::{docs-root}/shared/cloud/ess-getting-started-generic.asciidoc[]
+
+. {ess-trial}[Get a free trial].
+
+. Log into {ess-console}[Elastic Cloud].
+
+. Click *Create deployment*.
+
+. Select a solution and give your deployment a name. If you're unsure
+
+. Click *Create deployment* and copy the password for the `elastic` user.
